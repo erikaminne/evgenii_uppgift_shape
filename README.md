@@ -1,6 +1,7 @@
 # evgenii_uppgift_shape
 Evgeniis uppgift där python coden ska känna igen vad för sorts shape som bilden visar.
 Jag följde instruktioner på websidan https://www.geeksforgeeks.org/how-to-detect-shapes-in-images-in-python-using-opencv/ som Anton hade delat med mig.
+Jag gjorde bilden själv på Adobe Photoshop
 
 Efter att jag har importerat alla nödvändiga modules så börjar jag med att läsa av bilden som jag har skapat. 
 Efter det så convertar jag bilden till grayscale eftersom det gör de lättare att avläsa och identifiera de olika formerna i bilden. 
